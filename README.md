@@ -19,21 +19,21 @@ Le dossier comporte également les environnements conda nécessaires à faire to
 ### PAst
 Le sérotypeur de Pseudomonas aeruginosa (PAst) est un outil en ligne de commande pour le sérotypage *in silico* rapide et fiable des isolats de P. aeruginosa, basé sur les données d'assemblage de la séquence du génome entier.
 
-Logiciel disponible sur :  https://cge.cbs.dtu.dk/services/past-1.0/  et https://github.com/Sandramses/PAst
+Logiciel disponible sur :  [https://cge.cbs.dtu.dk/services/past-1.0/] et [https://github.com/Sandramses/PAst]
 
 Créateurs : (1, 2)
 
 ## MLST 
 Le service MLST contient un script python mlst.py qui est le script de la dernière version du service MLST. La méthode permet aux chercheurs de déterminer le ST sur la base des données WGS.
 
-Logiciel disponible sur : https://cge.food.dtu.dk/services/MLST/ et https://bitbucket.org/genomicepidemiology/mlst/src/master/ 
+Logiciel disponible sur : [https://cge.food.dtu.dk/services/MLST/] et [https://bitbucket.org/genomicepidemiology/mlst/src/master/]
 
 Créateurs : (2, 3, 4, 5, 6 , 7, 8, 9)
 
 ## ResFinder 
 ResFinder identifie les gènes de résistance aux antimicrobiens acquis dans les isolats de bactéries à séquençage total ou partiel.
 
-Logiciel disponible sur : https://cge.food.dtu.dk/services/ResFinder/  et https://bitbucket.org/genomicepidemiology/resfinder/src
+Logiciel disponible sur : [https://cge.food.dtu.dk/services/ResFinder/]  et https://bitbucket.org/genomicepidemiology/resfinder/src]
 
 Créateurs : (2, 10, 11, 12)
 
