@@ -18,7 +18,9 @@ Créateurs : (1, 2)
 
 ## MLST 
 Le service MLST contient un script python mlst.py qui est le script de la dernière version du service MLST. La méthode permet aux chercheurs de déterminer le ST sur la base des données WGS.
+
 Logiciel disponible sur : https://cge.food.dtu.dk/services/MLST/ et https://bitbucket.org/genomicepidemiology/mlst/src/master/ 
+
 Créateurs : (2, 3, 4, 5, 6 , 7, 8, 9)
 
 ## ResFinder 
