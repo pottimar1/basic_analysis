@@ -1,0 +1,50 @@
+name: MLSTtyping
+channels:
+  - bioconda
+  - r
+  - defaults
+  - conda-forge
+dependencies:
+  - blast=2.12.0=h0370960_3
+  - bzip2=1.0.8=h1de35cc_0
+  - c-ares=1.18.1=hca72f7f_0
+  - ca-certificates=2022.4.26=hecd8cb5_0
+  - curl=7.82.0=hca72f7f_0
+  - entrez-direct=16.2=h193322a_1
+  - krb5=1.19.2=hcd88c3b_0
+  - libcurl=7.82.0=h6dfd666_0
+  - libcxx=14.0.5=hce7ea42_1
+  - libedit=3.1.20210910=hca72f7f_0
+  - libev=4.33=h9ed2024_1
+  - libidn2=2.3.2=h9ed2024_0
+  - libnghttp2=1.46.0=ha29bfda_0
+  - libssh2=1.10.0=h0a4fc7d_0
+  - libunistring=0.9.10=h9ed2024_0
+  - libzlib=1.2.12=hfe4f2af_1
+  - llvm-openmp=12.0.0=h0dcd299_1
+  - ncurses=6.3=hca72f7f_2
+  - openssl=1.1.1o=hca72f7f_0
+  - pcre=8.45=h23ab428_0
+  - perl=5.32.1=2_h0d85af4_perl5
+  - perl-archive-tar=2.40=pl5321hdfd78af_0
+  - perl-carp=1.38=pl5321hdfd78af_4
+  - perl-common-sense=3.75=pl5321hdfd78af_0
+  - perl-compress-raw-bzip2=2.103=pl5321h9722bc1_0
+  - perl-compress-raw-zlib=2.105=pl5321h9722bc1_0
+  - perl-encode=3.17=pl5321ha5712d3_0
+  - perl-exporter=5.72=pl5321hdfd78af_2
+  - perl-exporter-tiny=1.002002=pl5321hdfd78af_0
+  - perl-extutils-makemaker=7.64=pl5321hd8ed1ab_0
+  - perl-io-compress=2.106=pl5321h9722bc1_0
+  - perl-io-zlib=1.11=pl5321hdfd78af_0
+  - perl-json=4.06=pl5321hdfd78af_0
+  - perl-json-xs=2.34=pl5321hcd10b59_5
+  - perl-list-moreutils=0.430=pl5321hdfd78af_0
+  - perl-list-moreutils-xs=0.430=pl5321ha5712d3_1
+  - perl-parent=0.236=pl5321hdfd78af_2
+  - perl-pathtools=3.75=pl5321ha5712d3_3
+  - perl-scalar-list-utils=1.62=pl5321ha5712d3_0
+  - perl-types-serialiser=1.01=pl5321hdfd78af_0
+  - wget=1.21.3=h6dfd666_0
+  - zlib=1.2.12=hfe4f2af_1
+prefix: /Applications/miniconda3/envs/MLSTtyping
