@@ -3,7 +3,7 @@ serotyping (PSAE), MLST typing and resistome extraction
 
 ## Objet
 Le répertoire basic_analysis permet de faire tourner les logiciels ci-après de manière automatisée, en local sur un terminal zsh.
-Pour chaque analyse, il sera nécessaire de se placeer dans le répertoire de l'outil -> Outils/PAst ; Outils/MLSTtyper ou Outils/resfinder.
+Pour chaque analyse, il sera nécessaire de se placer dans le répertoire de l'outil -> Outils/PAst ; Outils/MLSTtyper ou Outils/resfinder.
 Dans chacun de ces répertoire, ouvrir le fichier readme pour connaître la marche à suivre pour réaliser l'installation et l'analyse. 
 - PAst (1, 2)
 - MLST (2, 3, 4, 5, 6 , 7, 8, 9)
@@ -37,7 +37,7 @@ Logiciel disponible sur : https://cge.food.dtu.dk/services/ResFinder/ et https:/
 
 Créateurs : (2, 10, 11, 12)
 
-REFERENCES
+# REFERENCES
 
   1.  Application of Whole-Genome Sequencing Data for O-Specific Antigen Analysis and In Silico Serotyping of Pseudomonas aeruginosa Isolates. Thrane SW, Taylor VL, Lund O, Lam JS, Jelsbak L.
     J. Clin. Micobiol. 2016. 54(7): 1782-1788.
