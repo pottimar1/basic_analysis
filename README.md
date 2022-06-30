@@ -17,7 +17,7 @@ Le dossier comporte également les environnements conda nécessaires à faire to
 - Resfinder 4.1 : ResFinder and PointFinder software: (2022-03-10) ; ResFinder database: EFSA_2021 (2022-05-24) ; PointFinder database: (2021-02-01)
 
 ### PAst
-Le sérotypeur de Pseudomonas aeruginosa (PAst) est un outil en ligne de commande pour le sérotypage * in silico * rapide et fiable des isolats de P. aeruginosa, basé sur les données d'assemblage de la séquence du génome entier.
+Le sérotypeur de Pseudomonas aeruginosa (PAst) est un outil en ligne de commande pour le sérotypage *in silico* rapide et fiable des isolats de P. aeruginosa, basé sur les données d'assemblage de la séquence du génome entier.
 
 Logiciel disponible sur :  cge.cbs.dtu.dk/services/past-1.0/  et https://github.com/Sandramses/PAst
 
