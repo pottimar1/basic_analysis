@@ -1,0 +1,6 @@
+filename	serotype	%coverage of OSA	OSA fragments
+12741.scfd.fasta	O6	99.6165889194198	1
+
+12741.scfdcopie.fasta	O6	99.6165889194198	1
+
+12741.scfdcopie2.fasta	O6	99.6165889194198	1
