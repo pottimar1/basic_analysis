@@ -19,7 +19,7 @@ Le dossier comporte également les environnements conda nécessaires à faire to
 ### PAst
 Le sérotypeur de Pseudomonas aeruginosa (PAst) est un outil en ligne de commande pour le sérotypage *in silico* rapide et fiable des isolats de P. aeruginosa, basé sur les données d'assemblage de la séquence du génome entier.
 
-Logiciel disponible sur :  cge.cbs.dtu.dk/services/past-1.0/  et https://github.com/Sandramses/PAst
+Logiciel disponible sur :  https://cge.cbs.dtu.dk/services/past-1.0/  et https://github.com/Sandramses/PAst
 
 Créateurs : (1, 2)
 
