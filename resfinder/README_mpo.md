@@ -1,5 +1,5 @@
 # MLST rajout documentation MPo
-### Dernières modifications 220510
+### Dernières modifications 20220510
 ==================
 #### Installation
 # Etape 1 : créer un environnement conda appellé resfinder
