@@ -17,7 +17,7 @@ Le dossier comporte également les environnements conda nécessaires à faire to
 - Resfinder 4.1 : ResFinder and PointFinder software: (2022-03-10) ; ResFinder database: EFSA_2021 (2022-05-24) ; PointFinder database: (2021-02-01)
 
 ### PAst
-Le sérotypeur de Pseudomonas aeruginosa (PAst) est un outil en ligne de commande pour le sérotypage in silico rapide et fiable des isolats de P. aeruginosa, basé sur les données d'assemblage de la séquence du génome entier.
+Le sérotypeur de Pseudomonas aeruginosa (PAst) est un outil en ligne de commande pour le sérotypage * in silico * rapide et fiable des isolats de P. aeruginosa, basé sur les données d'assemblage de la séquence du génome entier.
 
 Logiciel disponible sur :  cge.cbs.dtu.dk/services/past-1.0/  et https://github.com/Sandramses/PAst
 
@@ -33,11 +33,11 @@ Créateurs : (2, 3, 4, 5, 6 , 7, 8, 9)
 ## ResFinder 
 ResFinder identifie les gènes de résistance aux antimicrobiens acquis dans les isolats de bactéries à séquençage total ou partiel.
 
-Logiciel disponible sur : https://cge.food.dtu.dk/services/ResFinder/ et https://bitbucket.org/genomicepidemiology/resfinder/src
+Logiciel disponible sur : https://cge.food.dtu.dk/services/ResFinder/  et https://bitbucket.org/genomicepidemiology/resfinder/src
 
 Créateurs : (2, 10, 11, 12)
 
-# REFERENCES
+## REFERENCES
 
   1.  Application of Whole-Genome Sequencing Data for O-Specific Antigen Analysis and In Silico Serotyping of Pseudomonas aeruginosa Isolates. Thrane SW, Taylor VL, Lund O, Lam JS, Jelsbak L.
     J. Clin. Micobiol. 2016. 54(7): 1782-1788.
