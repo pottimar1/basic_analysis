@@ -2,18 +2,25 @@
 serotyping (PSAE), MLST typing and resistome extraction
 
 ## Objet
-Le répertoire basic_analysis permet de faire tourner les logiciels 
+Le répertoire basic_analysis permet de faire tourner les logiciels ci-après de manière automatisée, en local sur un terminal zsh.
+Pour chaque analyse, il sera nécessaire de se placeer dans le répertoire de l'outil -> Outils/PAst ; Outils/MLSTtyper ou Outils/resfinder.
+Dans chacun de ces répertoire, ouvrir le fichier readme pour connaître la marche à suivre pour réaliser l'installation et l'analyse. 
 - PAst (1, 2)
 - MLST (2, 3, 4, 5, 6 , 7, 8, 9)
-- ResFinder (2, 10, 11, 12)
+- ResFinder (2, 10, 11, 12) 
+
+Le dossier comporte également les environnements conda nécessaires à faire tourner les scripts. Ces environnements ont été crées avec conda 4.12.0.
 
 ## Versions utilisées 
 - PAst 1.0
-- MLST
+- MLST 2.0 : Software version: 2.0.9 (2022-05-11) ; Database version: (2022-06-27)
+- Resfinder 4.1 : ResFinder and PointFinder software: (2022-03-10) ; ResFinder database: EFSA_2021 (2022-05-24) ; PointFinder database: (2021-02-01)
 
 ### PAst
 Le sérotypeur de Pseudomonas aeruginosa (PAst) est un outil en ligne de commande pour le sérotypage in silico rapide et fiable des isolats de P. aeruginosa, basé sur les données d'assemblage de la séquence du génome entier.
+
 Logiciel disponible sur :  cge.cbs.dtu.dk/services/past-1.0/  et https://github.com/Sandramses/PAst
+
 Créateurs : (1, 2)
 
 ## MLST 
@@ -25,7 +32,9 @@ Créateurs : (2, 3, 4, 5, 6 , 7, 8, 9)
 
 ## ResFinder 
 ResFinder identifie les gènes de résistance aux antimicrobiens acquis dans les isolats de bactéries à séquençage total ou partiel.
+
 Logiciel disponible sur : https://cge.food.dtu.dk/services/ResFinder/ et https://bitbucket.org/genomicepidemiology/resfinder/src
+
 Créateurs : (2, 10, 11, 12)
 
 REFERENCES
